@@ -6,4 +6,10 @@ public class ABCDE {
 		// TODO Auto-generated method stub
 
 	}
+	
+	private void def() {
+		// TODO Auto-generated method stub
+
+	}
+	
 }
